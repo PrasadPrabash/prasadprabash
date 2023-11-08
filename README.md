@@ -16,7 +16,7 @@
 
  💬 Ask me about **React, HTML5, CSS, Bootstrap, Java**
 
- ⚡ Fun fact **Help Community**
+ ⚡ Fun fact **Travelling & Photograpy**
  
  </div>
  
