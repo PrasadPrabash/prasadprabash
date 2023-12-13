@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+PRASAD+WIJEKOON;" />
 </h1>
 
-<h3 align="center">A passionate software Engineer from Srilanka 🇱🇰</h3>
+<h3 align="center">A Passionate Software Engineer from Sri Lanka 🇱🇰</h3>
 
 <br/>
 
