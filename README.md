@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently work in **IJSE Panadura**
+ 🔭 I’m currently work in **Omobio**
  
- 🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
+ 🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular, Python**
 
  💬 Ask me about **React, HTML5, CSS, Bootstrap, Java**
 
